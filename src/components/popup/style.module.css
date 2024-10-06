@@ -1,0 +1,50 @@
+.wrap{
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    position: fixed;
+    background-color: #1616163D;
+
+}
+
+.container{
+    width: 310px;
+    min-height: 211px;
+    background-color: #FDFDFD;
+    border-radius: 16px;
+    padding: 40px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-top: 407px;
+    position: relative;
+}
+
+.x{
+    top: 12px;
+    right: 12px;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+}
+
+.succ{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 84px;
+    width: 84px;
+    margin-bottom: 20px;
+}
+
+.text{
+    text-align: center;
+    font-weight: 600;
+    color: #595959;
+    font-size: 20px;
+}

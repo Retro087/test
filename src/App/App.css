@@ -1,0 +1,11 @@
+.App{
+    background-color: rgba(244, 244, 244, 1);
+    min-height: 1024px;
+}
+
+@media (max-width: 375px) {
+    .App{
+        width: 375px;
+        
+    }
+}
